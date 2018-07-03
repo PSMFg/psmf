@@ -1,5 +1,5 @@
-To run the project from the command line, go to the dist folder and
-type the following:
+To run the project from the command line, go to the folder where the PSMF.jar is and
+type the following command:
 
 java -jar -Xms1g "PSMF.jar" 
 
