@@ -64,3 +64,4 @@ pred PosC[iSt: one IState, fSt: one FState] {
     
 }
 
+run Synt for 7 but -1..9 Int , 1 IState, 1 FState, 1 While, 3 Assign, 2 SComp, 0 CondS, 1 Mult, 1 Sub, 3 Add, 2 IntVal, 4 IntVar, 0 EQ, 0 NEQ, 1 LEQ, 0 GEQ, 0 GTH
